@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Cybersecurity Analyst with **4+ years of experience** in Healthcare Security, specializing in Governance, Risk & Compliance (GRC), Identity & Access Management (IAM), and regulatory frameworks including **HIPAA, NIST CSF, and ISO 27001**.
+Cybersecurity Analyst with **5+ years of experience** in Healthcare Security, specializing in Governance, Risk & Compliance (GRC), Identity & Access Management (IAM), and regulatory frameworks including **HIPAA, NIST CSF, and ISO 27001**.
 
 I protect patient data, manage organizational risk, and drive compliance excellence in complex healthcare environments. Currently expanding my technical skill set to stay ahead of the evolving threat landscape.
 
